@@ -5,3 +5,7 @@ Stock Prediction using LSTM model
 Clone repository and run with your prefferred python library.
 
 ### Verify all the imports
+
+#### Preview
+
+![Preview](visualization.jpeg)
